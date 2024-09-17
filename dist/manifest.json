@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "PWAvuejs",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "PWAvuejs",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/vuejs/vite.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "id": "pwavue",
+  "lang": "pt"
+}
